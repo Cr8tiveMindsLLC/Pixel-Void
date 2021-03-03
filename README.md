@@ -2,7 +2,7 @@
 
 ![Title](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Banner.gif)
 
-![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
+![Featured](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
 
 ![Featured:2](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Sliding.gif)
 
