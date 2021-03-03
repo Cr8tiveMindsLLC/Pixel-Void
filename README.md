@@ -1,6 +1,6 @@
 # Pixel-Void
 
-![Title](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Banner.gif)
+![Logo](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/steampunkgold-600x283.jpg)
 
 Features: | Mechanics
 ------------ | -------------
