@@ -7,7 +7,7 @@ http://timelineofthevoid.com
 
 ![Logo](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Logo-with-Text-300x188.png)
 
-Features: | Mechanics
+Feature: | Video:
 ------------ | -------------
 Dash | ![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
 Double Jump | ![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
