@@ -2,15 +2,12 @@
 
 ![Title](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Banner.gif)
 
-Features: | Movement Mechanics
+Features: | Mechanics
 ------------ | -------------
-Content from cell 1 | ![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
-Content in the first column | Content in the second column
+Dash | ![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
+Double Jump | ![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
+Directional Attacks | ![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
+Wall Jumping | ![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
+Wall Sliding | ![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
 
-![Featured:1](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Double-Jump.gif)
-
-![Featured:2](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Sliding.gif)
-
-![Featured:3](http://162.250.191.163/wordpress/wp-content/uploads/2021/02/Walking.gif)
-
-Github Source
+# Github Source
