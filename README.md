@@ -1,5 +1,6 @@
 <h1> Pixel Void
-<h2> 2D Sidescroller MMORPG Maker
+<h2> 2D MMORPG Sidescroller Maker
+<h1> Only $49.99
 <h3> Website:
 http://timelineofthevoid.com
 <h4> YouTube:
